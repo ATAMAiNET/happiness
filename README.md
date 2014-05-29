@@ -1,4 +1,4 @@
-hapiness
+happiness
 ========
 
-testing gross hapiness index correlations
+testing gross happiness index correlations
